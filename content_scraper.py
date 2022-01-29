@@ -6,8 +6,8 @@ class FaceBookBot :
     login_basic_url = 'https://mbasic.facebook.com/login'
     login_mobile_url = 'https://m.facebook.com/login'
     payload = {
-            'email': "gandhidhwanil28@gmail.com",
-            'pass': "Shrikrishnaram@123"
+            'email': "aimtgroup4@gmail.com",
+            'pass': " "
         }    
     def parse_html(self, request_url):
         with requests.Session() as session:
